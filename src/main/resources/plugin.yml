@@ -1,0 +1,4 @@
+name: Exper
+version: '1.0-SNAPSHOT'
+main: ru.AsoiX.exper.Exper
+api-version: '1.21'
